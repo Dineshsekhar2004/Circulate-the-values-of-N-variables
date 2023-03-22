@@ -31,6 +31,6 @@ def circulate():
 
 ```
 ## Output:
-![Output](/Screenshot%20from%202023-03-22%2009-46-17.png)
+![Screenshot from 2023-03-22 09-46-17](https://user-images.githubusercontent.com/119405916/226801479-b733482e-89f0-434f-9f3a-f3b4f5fb7ed4.png)
 ## Result:
 The program is executed sucessfully!
